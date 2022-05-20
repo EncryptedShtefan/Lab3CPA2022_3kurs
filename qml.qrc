@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AddDialog.qml</file>
+        <file>EditDialogue.qml</file>
+        <file>GameDelegate.qml</file>
+    </qresource>
+</RCC>
